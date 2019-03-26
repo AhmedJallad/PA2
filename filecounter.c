@@ -49,3 +49,4 @@ int main(int argc, const char * argv[]) {
     
     return 0;
 }
+// Add a NEW COMMENT into the filecounter.c file
